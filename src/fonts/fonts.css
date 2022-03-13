@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "GreatVibes-Regular";
+    src: url(./GreatVibes-Regular.ttf);
+}
+
+@font-face {
+    font-family: "JosefinSans-Bold";
+    src: url("./JosefinSans-Bold.ttf");
+}
+
+@font-face {
+    font-family: "josefin-semibold";
+    src: url(./JosefinSans-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: "JosefinSans-regular";
+    src: url(./JosefinSans-Regular.ttf);
+}
