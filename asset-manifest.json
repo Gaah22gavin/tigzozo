@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Gaah22gavin/tigzozo/static/css/main.6b1c6dd7.css",
+    "main.js": "/Gaah22gavin/tigzozo/static/js/main.52d3e963.js",
+    "static/js/787.e58c4b45.chunk.js": "/Gaah22gavin/tigzozo/static/js/787.e58c4b45.chunk.js",
+    "static/media/GreatVibes-Regular.ttf": "/Gaah22gavin/tigzozo/static/media/GreatVibes-Regular.6d246c3b51d7eb58b13a.ttf",
+    "static/media/JosefinSans-SemiBold.ttf": "/Gaah22gavin/tigzozo/static/media/JosefinSans-SemiBold.3fc02ffe3b6f114e24cf.ttf",
+    "static/media/JosefinSans-Regular.ttf": "/Gaah22gavin/tigzozo/static/media/JosefinSans-Regular.511e3c3173e1aba79ba0.ttf",
+    "static/media/JosefinSans-Bold.ttf": "/Gaah22gavin/tigzozo/static/media/JosefinSans-Bold.958fefb32cf3d337d5bf.ttf",
+    "index.html": "/Gaah22gavin/tigzozo/index.html",
+    "main.6b1c6dd7.css.map": "/Gaah22gavin/tigzozo/static/css/main.6b1c6dd7.css.map",
+    "main.52d3e963.js.map": "/Gaah22gavin/tigzozo/static/js/main.52d3e963.js.map",
+    "787.e58c4b45.chunk.js.map": "/Gaah22gavin/tigzozo/static/js/787.e58c4b45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b1c6dd7.css",
+    "static/js/main.52d3e963.js"
+  ]
+}
